@@ -26,7 +26,7 @@ Even though we have our Main Staff, during events it can be hard for an admin to
 
 A new admin can be added at any time. The Main Staff will call upon someone if we deem it necessary to add another admin to help cover all the weekly and in-race duties. Typically, this would be a seasoned and trusted member of the league. But, anyone is welcome to apply to be an admin (Main or Secondary) by messaging one of the Main Staff. A meeting with the entire Main Staff will be held and a decision come with the applying member present.
 
-#### 1.1.3.Main Staff Decisions
+#### 1.1.3. Main Staff Decisions
 Through any issues, misconduct, problems, etc. the Main Staff will converse, have meetings and discussions, with applicable members if necessary, and work to come to the best conclusion and resolution possible in a timely manner. Once any Main Staff decision has been made, it is final.
 
 ### 2. League Conduct and Issues
