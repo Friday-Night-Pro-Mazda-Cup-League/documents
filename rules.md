@@ -1,5 +1,5 @@
 
-#1. Introduction
+# Introduction
 
 Welcome to the Saturday Night Pro Mazda Cup league.
 
