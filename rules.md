@@ -7,7 +7,7 @@ Website: https://members.iracing.com/membersite/member/LeagueView.do?league=6483
 
 Facebook Group: https://www.facebook.com/Saturday-Night-Pro-Mazda-Cup-103278321806851
 
-### 1 League Administration 
+### 1. League Administration 
 It is our objective to continue to grow Saturday Night Pro Mazda Cup league, and we hope for every member to have the same objective. By recognizing and addressing issues from the previous season(s), being intuitive, conscious, and versatile in solutions to keep the league the best it can be, we can achieve any goal.
 
 #### 1.1.1. Main Staff:
