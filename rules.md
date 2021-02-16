@@ -31,7 +31,7 @@ Through any issues, misconduct, problems, etc. the Main Staff will converse, hav
 Code of Conduct: Every driver MUST read and understand the code of conduct. A brief list of basic rules every member must follow to ensure an enjoyable experience in the league for everyone.
 
 #### 2.1.2. Conduct Rules
-These are the basic rules of conduct the SNPM Staff and Members expect everyone to follow.
+These are the basic rules of conduct the FNPM Staff and Members expect everyone to follow.
 
 #### 2.1.2a: 
 No racial or prejudice comments of any sort towards another member at any time. All privileges will be revoked.
@@ -46,7 +46,7 @@ Keep language and actions clean and professional in the race. Tempers flare and 
 Be mature and respectful of everyone on and off the track. It's simple.
 
 #### 2.1.2e: 
-The SNPM Staff will step in at any time to discuss members conduct and respond to it reasonably.
+The FNPM Staff will step in at any time to discuss members conduct and respond to it reasonably.
 
 #### 2.1.1. Main Staff Decision
 When any individual(s) breaks the Code of Conduct rules, the Main Staff will hold a meeting with the individual(s) and come to a resolution on how to move forward and any penalties will be assessed. During this meeting, the individual(s) have their chance to discuss the issue and give their case. However, once a decision is agreed upon by the Main Staff, it is final and any penalties will be implemented immediately.
@@ -55,7 +55,7 @@ When any individual(s) breaks the Code of Conduct rules, the Main Staff will hol
 Actions Detrimental To Friday Night Pro Mazda Cup league, the Staff, and/or its members will not be tolerated. Any actions that are deemed to be with anger, malice, or spite towards any aspect, especially member of the league, will be met with punishment quickly.
 
 #### 2.2. League Issues 
-Nothing is perfect, although perfection can be strived for. SNPM continues to work with that ideology. Issues will arise and our goal is to swiftly and properly resolve them. Whether they be a disagreement between drivers where the admins must step in to keep the situation under control, or it is a mishap with race procedures or anything in between that holds the league back or keeps it from running smooth and enjoyable for everyone.
+Nothing is perfect, although perfection can be strived for. FNPM continues to work with that ideology. Issues will arise and our goal is to swiftly and properly resolve them. Whether they be a disagreement between drivers where the admins must step in to keep the situation under control, or it is a mishap with race procedures or anything in between that holds the league back or keeps it from running smooth and enjoyable for everyone.
 
 #### 2.2.1. Main Staff Decision
 When any issue arises in the league, the Main Staff will discuss the problem at length and come to a resolution. Once this resolution is met, it is final and will be implemented to fix the issue.
@@ -69,7 +69,7 @@ If you notice an issue in the league or with a driver and would like to bring it
 Drivers are to sign up for the league through iRacing's league feature here: https://members.iracing.com/membersite/member/LeagueView.do?league=6483
 Please send a message with your application requesting your car number (see section 3.4.) and the series (see section 3.3.) you plan to race in.
 
-#### 3.2. SNPM Cup Series
+#### 3.2. FNPM Cup Series
 Friday Night Pro Mazda Cup league is currently hosting one series this year (2021)
 
 #### 3.2.1. Cup Series: (2021)
