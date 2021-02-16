@@ -79,8 +79,8 @@ Saturday Night Pro Mazda Cup league is currently hosting one series this year (2
 
 #### 3.2.1. Cup Series: (2021)
 - Races on Saturday night.
-- Practice at 9:00 pm GMT.
-- Qual at 9:20 pm GMT.
+- Practice at 8:30 pm GMT.
+- Qualifying at 9:20 pm GMT.
 - Race at 9:30 pm GMT.
 
 (any of the above subject to change)
@@ -102,22 +102,22 @@ Must be a number between 00-09 and 1-99. No three-digit numbers are allowed. (ne
 #### 4.1. Race Specifics
 Through seasons, SNPM has determined what we feel is one of the best ways to set up our races. With race length, weather, start times and more.
 
-#### 4.1.1. Start Times: All times are Eastern Time zone and adjusted for daylight savings.
-- Practice 7:30pm
-- Qualifying 9:20pm
-- Race 9:25pm
+#### 4.1.1. Start Times: All times are GMT zone and adjusted for daylight savings.
+- Practice at 8:30 pm GMT.
+- Qualifying at 9:20 pm GMT.
+- Race at 9:30 pm GMT.
 
 #### 4.1.2. Fixed Setup: 
 We will be using setups created by iRacing. Determining that for a casual, yet competitive, league it is best for and most liked by the members to not have to worry about making setups and be able to come, race, and have fun without investing a lot of time into it.
 
 #### 4.1.3. Race Length
-We base the length of our Cup Series races on a 40-50% distance of the actual length of Monster Energy NASCAR Cup Series races.
+The length of the race will be 1 hour, finishing at 10:30pm GMT.
 
 #### 4.1.4. Default Weather
 SNPM has decided to utilize the "default" weather option with dynamic skies.
 
 #### 4.2. Drivers Meeting
-A brief drivers meeting will be held through the race room chat before the race at 9:00pm Eastern Time. It is required that you be present for this meeting.
+REMOVE
 
 #### 4.3. Practice
 Practice for the race will be open from 7:30pm to 9:20pm Eastern Time. It is open to all race competitors. We ask that you keep communication in race chat to a minimum and utilize our Discord Server for general talk. As well, use caution during practice as other drivers are trying to run laps. There are no rules, per se, penalties or requirements during practice. Just be respectful of any other drivers.
