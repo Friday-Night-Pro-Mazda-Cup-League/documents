@@ -65,7 +65,7 @@ Nothing is perfect, although perfection can be strived for. SNPM continues to wo
 When any issue arises in the league, the Main Staff will discuss the problem at length and come to a resolution. Once this resolution is met, it is final and will be implemented to fix the issue.
 
 #### 2.2.2. Reporting Issues
-If you notice an issue in the league or with a driver and would like to bring it up or discuss it, you can file a protest or message an admin via Facebook, iRacing, or through our TeamSpeak channel, and we will look into it. A meeting will be held with the Main Staff and yourself, as well as anyone else seeing the same issue, and a resolution will be made.
+If you notice an issue in the league or with a driver and would like to bring it up or discuss it, you can file a protest or message an admin via Facebook, iRacing, or through our Discord server, and we will look into it. A meeting will be held with the Main Staff and yourself, as well as anyone else seeing the same issue, and a resolution will be made.
 
 
 ### 3. League Registration
