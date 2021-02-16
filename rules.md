@@ -52,7 +52,7 @@ The SNPM Staff will step in at any time to discuss members conduct and respond t
 When any individual(s) breaks the Code of Conduct rules, the Main Staff will hold a meeting with the individual(s) and come to a resolution on how to move forward and any penalties will be assessed. During this meeting, the individual(s) have their chance to discuss the issue and give their case. However, once a decision is agreed upon by the Main Staff, it is final and any penalties will be implemented immediately.
 
 #### 2.1.2. 
-Actions Detrimental To Saturday Night Pro Mazda Cup league, the Staff, and/or its members will not be tolerated. Any actions that are deemed to be with anger, malice, or spite towards any aspect, especially member of the league, will be met with punishment quickly.
+Actions Detrimental To Friday Night Pro Mazda Cup league, the Staff, and/or its members will not be tolerated. Any actions that are deemed to be with anger, malice, or spite towards any aspect, especially member of the league, will be met with punishment quickly.
 
 #### 2.2. League Issues 
 Nothing is perfect, although perfection can be strived for. SNPM continues to work with that ideology. Issues will arise and our goal is to swiftly and properly resolve them. Whether they be a disagreement between drivers where the admins must step in to keep the situation under control, or it is a mishap with race procedures or anything in between that holds the league back or keeps it from running smooth and enjoyable for everyone.
@@ -70,10 +70,10 @@ Drivers are to sign up for the league through iRacing's league feature here: htt
 Please send a message with your application requesting your car number (see section 3.4.) and the series (see section 3.3.) you plan to race in.
 
 #### 3.2. SNPM Cup Series
-Saturday Night Pro Mazda Cup league is currently hosting one series this year (2021)
+Friday Night Pro Mazda Cup league is currently hosting one series this year (2021)
 
 #### 3.2.1. Cup Series: (2021)
-- Races on Saturday night.
+- Races on Friday night.
 - Practice at 8:30 pm GMT.
 - Qualifying at 9:20 pm GMT.
 - Race at 9:30 pm GMT.
