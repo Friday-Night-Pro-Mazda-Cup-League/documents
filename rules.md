@@ -114,7 +114,7 @@ We will be using setups created by iRacing. Determining that for a casual, yet c
 We base the length of our Cup Series races on a 40-50% distance of the actual length of Monster Energy NASCAR Cup Series races.
 
 #### 4.1.4. Default Weather
-SNPM has decided to utilize the "default"  weather option with dynamic skies.
+SNPM has decided to utilize the "default" weather option with dynamic skies.
 
 #### 4.2. Drivers Meeting
 A brief drivers meeting will be held through the race room chat before the race at 9:00pm Eastern Time. It is required that you be present for this meeting.
@@ -276,22 +276,7 @@ Points awarded for your finishing position in each race.
 
 #### 8.2. Bonus Points
 Pole Position - 1 point
-Leading a Lap - 1 point
-Leading the Most Laps - 1 point
-Winning the Race - 3 points
-Race Win Points Towards the Chase - 2 points per Win
-
-#### 8.3. Chase
-The SNPM Cup Series will use an 6 race Chase-style format for 2021.
-
-#### 8.3.1. Regular Season
-There will be 11 (including the Clash) races in the regular season.
-
-#### 8.3.2. Drivers Eligible
-15 Drivers will make the chase based on regular season points in the SNPM Cup Series
-
-#### 8.3.3. 
-All current drivers are eligible to race in the Chase races as long as you have a history of racing in SNPM races.
+Fastest Lap - 1 point
 
 ### 10. 'Boys Have At It' Policy
 
