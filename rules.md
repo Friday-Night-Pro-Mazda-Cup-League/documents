@@ -89,9 +89,6 @@ It is required that in every race, you register with your car number. An admin w
 #### 3.3.2. Number Choice is Final
 After the first points race of the season, your car number is locked in for the entire season and you can not change it. (on occasion, there will be an open time to switch numbers)
 
-#### 3.3.3. Car Numbers
-Must be a number between 00-09 and 1-99. No three-digit numbers are allowed. (new drivers that are assigned a triple-digit number/placeholder are asked to choose 1 or 2 digit number as soon as possible)
-
 ### 4. Race Procedures
 
 #### 4.1. Race Specifics
@@ -129,7 +126,8 @@ Gridding will start immediately after qualifying is over. You will have 2 minute
 #### 4.5.1 Race Chat
 Please keep talk in the race room to a minimum and related to the race only so drivers can communicate what is going on and if there are any issues on the track.
 
-
+#### 4.6. Equipment
+SNPM requires that you have steering wheel for each race. We don't allow any drivers using gamepads, keyboards, mouses, touchscreens, etc. to race with as they are very unpredictable and much harder to race with and race around someone using them.
 
 ### 5. Green Flag Conditions
 
