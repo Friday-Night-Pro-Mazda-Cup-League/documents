@@ -89,13 +89,10 @@ It is required that in every race, you register with your car number. An admin w
 #### 3.3.2. Number Choice is Final
 After the first points race of the season, your car number is locked in for the entire season and you can not change it. (on occasion, there will be an open time to switch numbers)
 
-#### 3.3.3. Car Numbers
-Must be a number between 00-09 and 1-99. No three-digit numbers are allowed. (new drivers that are assigned a triple-digit number/placeholder are asked to choose 1 or 2 digit number as soon as possible)
-
 ### 4. Race Procedures
 
 #### 4.1. Race Specifics
-Through seasons, SNPM has determined what we feel is one of the best ways to set up our races. With race length, weather, start times and more.
+Through seasons, FNPM has determined what we feel is one of the best ways to set up our races. With race length, weather, start times and more.
 
 #### 4.1.1. Start Times: All times are GMT zone and adjusted for daylight savings.
 - Practice at 8:30 pm GMT.
@@ -130,7 +127,7 @@ Gridding will start immediately after qualifying is over. You will have 2 minute
 Please keep talk in the race room to a minimum and related to the race only so drivers can communicate what is going on and if there are any issues on the track.
 
 #### 4.6. Equipment
-SNPM requires that you have a working microphone and steering wheel for each race. We need to be able to communicate with you easily. We also don't allow any drivers using gamepads, keyboards, mouses, touchscreens, etc. to race with as they are very unpredictable and much harder to race with and race around someone using them.
+SNPM requires that you have steering wheel for each race. We don't allow any drivers using gamepads, keyboards, mouses, touchscreens, etc. to race with as they are very unpredictable and much harder to race with and race around someone using them.
 
 ### 5. Green Flag Conditions
 
@@ -141,7 +138,7 @@ SNPM requires that you have a working microphone and steering wheel for each rac
 At the start of the race, you're required to race fair and clean. 
 
 #### 5.2.1. Exiting Pits
-When exiting the pits under green flag, please be aware of other competitors - stay off the racing line until reaching racing speed.
+When exiting the pits, please be aware of other competitors - stay off the racing line until reaching racing speed.
 
 #### 5.3. Minimum Speed
 You must maintain a reasonable speed on the racetrack to avoid being in the way or a danger to the other competitors. If we feel you are running too slow or are in the way of the other drivers, we will ask you to pull off the track and get more damage fixed.  If you have all your damage fixed, and you are still not running at a reasonable speed, we will ask you to retire from the race.  If you refuse to pull off, you will be disqualified and could be penalized for the laps you gained while you were on the track with the damaged vehicle.
