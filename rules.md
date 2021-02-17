@@ -106,7 +106,7 @@ We will be using setups created by iRacing. Determining that for a casual, yet c
 The length of the race will be 1 hour, finishing at 10:30pm GMT.
 
 #### 4.1.4. Default Weather
-SNPM has decided to utilize the "default" weather option with dynamic skies.
+FNPM has decided to utilize the "default" weather option with dynamic skies.
 
 #### 4.1.5 Fast Repairs
 We will be limited to one fast repair per race.
@@ -138,7 +138,7 @@ SNPM requires that you have steering wheel for each race. We don't allow any dri
 At the start of the race, you're required to race fair and clean. 
 
 #### 5.2.1. Exiting Pits
-When exiting the pits, please be aware of other competitors - stay off the racing line until reaching racing speed.
+When exiting the pits please be aware of other competitors - stay off the racing line until reaching racing speed.
 
 #### 5.3. Minimum Speed
 You must maintain a reasonable speed on the racetrack to avoid being in the way or a danger to the other competitors. If we feel you are running too slow or are in the way of the other drivers, we will ask you to pull off the track and get more damage fixed.  If you have all your damage fixed, and you are still not running at a reasonable speed, we will ask you to retire from the race.  If you refuse to pull off, you will be disqualified and could be penalized for the laps you gained while you were on the track with the damaged vehicle.
