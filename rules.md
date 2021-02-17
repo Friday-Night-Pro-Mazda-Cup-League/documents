@@ -111,6 +111,9 @@ The length of the race will be 1 hour, finishing at 10:30pm GMT.
 #### 4.1.4. Default Weather
 SNPM has decided to utilize the "default" weather option with dynamic skies.
 
+#### 4.1.5 Fast Repairs
+We will be limited to one fast repair per race.
+
 #### 4.2. Drivers Meeting
 REMOVE
 
