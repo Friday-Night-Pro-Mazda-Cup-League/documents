@@ -118,10 +118,10 @@ We will be limited to one fast repair per race.
 REMOVE
 
 #### 4.3. Practice
-Practice for the race will be open from 7:30pm to 9:20pm Eastern Time. It is open to all race competitors. We ask that you keep communication in race chat to a minimum and utilize our Discord Server for general talk. As well, use caution during practice as other drivers are trying to run laps. There are no rules, per se, penalties or requirements during practice. Just be respectful of any other drivers.
+Practice for the race will be open from 8:30pm to 9:20pm GMT. It is open to all race competitors. We ask that you keep communication in race chat to a minimum and utilize our Discord Server for general talk. As well, use caution during practice as other drivers are trying to run laps. There are no rules, per se, penalties or requirements during practice. Just be respectful of any other drivers.
 
 #### 4.4. Qualifying
-Qualifying will start at 9:20pm Eastern Time. You will have 2 laps and be given 5 minutes (10 min on road courses) to complete them.
+Qualifying will start at 9:20pm GMT. You will have 2 laps and be given 5 minutes (10 min on road courses) to complete them.
 
 #### 4.5. Race
 Gridding will start immediately after qualifying is over. You will have 2 minutes to grid. You are not required to grid if you would prefer to start from the pits.
