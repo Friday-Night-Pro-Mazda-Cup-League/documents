@@ -95,7 +95,7 @@ Must be a number between 00-09 and 1-99. No three-digit numbers are allowed. (ne
 ### 4. Race Procedures
 
 #### 4.1. Race Specifics
-Through seasons, SNPM has determined what we feel is one of the best ways to set up our races. With race length, weather, start times and more.
+Through seasons, FNPM has determined what we feel is one of the best ways to set up our races. With race length, weather, start times and more.
 
 #### 4.1.1. Start Times: All times are GMT zone and adjusted for daylight savings.
 - Practice at 8:30 pm GMT.
@@ -109,7 +109,7 @@ We will be using setups created by iRacing. Determining that for a casual, yet c
 The length of the race will be 1 hour, finishing at 10:30pm GMT.
 
 #### 4.1.4. Default Weather
-SNPM has decided to utilize the "default" weather option with dynamic skies.
+FNPM has decided to utilize the "default" weather option with dynamic skies.
 
 #### 4.1.5 Fast Repairs
 We will be limited to one fast repair per race.
