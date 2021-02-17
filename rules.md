@@ -129,8 +129,7 @@ Gridding will start immediately after qualifying is over. You will have 2 minute
 #### 4.5.1 Race Chat
 Please keep talk in the race room to a minimum and related to the race only so drivers can communicate what is going on and if there are any issues on the track.
 
-#### 4.6. Equipment
-SNPM requires that you have a working microphone and steering wheel for each race. We need to be able to communicate with you easily. We also don't allow any drivers using gamepads, keyboards, mouses, touchscreens, etc. to race with as they are very unpredictable and much harder to race with and race around someone using them.
+
 
 ### 5. Green Flag Conditions
 
@@ -141,7 +140,7 @@ SNPM requires that you have a working microphone and steering wheel for each rac
 At the start of the race, you're required to race fair and clean. 
 
 #### 5.2.1. Exiting Pits
-When exiting the pits under green flag, please be aware of other competitors - stay off the racing line until reaching racing speed.
+When exiting the pits please be aware of other competitors - stay off the racing line until reaching racing speed.
 
 #### 5.3. Minimum Speed
 You must maintain a reasonable speed on the racetrack to avoid being in the way or a danger to the other competitors. If we feel you are running too slow or are in the way of the other drivers, we will ask you to pull off the track and get more damage fixed.  If you have all your damage fixed, and you are still not running at a reasonable speed, we will ask you to retire from the race.  If you refuse to pull off, you will be disqualified and could be penalized for the laps you gained while you were on the track with the damaged vehicle.
