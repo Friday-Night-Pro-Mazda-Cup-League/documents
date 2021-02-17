@@ -227,7 +227,10 @@ Points awarded for your finishing position in each race will follow the indy car
 
 #### 8.2. Bonus Points
 Pole Position - 1 point
+
 Fastest Lap - 1 point
+
+No incidents - 1 point
 
 ### 11. Appeals and Issues
 Any penalty can be appealed by contacting Admins.
