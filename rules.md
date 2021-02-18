@@ -105,7 +105,7 @@ Through seasons, FNPM has determined what we feel is one of the best ways to set
 - Qualifying at 9:20 pm GMT.
 - Race at 9:30 pm GMT.
 
-#### 4.1.2. Fixed Setup: 
+#### 4.1.2. Fixed Setup 
 We will be using setups created by iRacing. Determining that for a casual, yet competitive, league it is best for and most liked by the members to not have to worry about making setups and be able to come, race, and have fun without investing a lot of time into it.
 
 #### 4.1.3. Race Length
@@ -126,10 +126,27 @@ Practice for the race will be open from 8:30pm to 9:20pm GMT. It is open to all 
 #### 4.4. Qualifying
 Qualifying will start at 9:20pm GMT. You will have 2 laps and be given 5 minutes (10 min on road courses) to complete them.
 
-#### 4.5. Race
+### 4.5. Race Options
+License Range: No Limit \
+iRating Range: No Limit \
+Max Drivers: 45 \
+Start Type: Standing Start \
+Restart Type: Single File, Maintain \
+Automatic Full Course Yellows: No \
+Lucky Dog: No \
+Wave Arounds: Yes \
+Attempts at Green/White/Checkered: 0 \
+Car Incident Limit: No Limit \
+Incident Warnings: No Incident Warning \
+Car Damage: On \
+Fast Repairs: 1 \
+Assists Allowed: Allow Driving Aids \
+
+#### 4.5.1 Race Grid
 Gridding will start immediately after qualifying is over. You will have 2 minutes to grid. You are not required to grid if you would prefer to start from the pits.
 
-#### 4.5.1 Race Chat
+
+#### 4.5.2 Race Chat
 Please keep talk in the race room to a minimum and related to the race only so drivers can communicate what is going on and if there are any issues on the track.
 
 #### 4.6. Equipment
@@ -230,10 +247,8 @@ Points awarded for your finishing position in each race will follow the indy car
 60.  5
 
 #### 8.2. Bonus Points
-Pole Position - 1 point
-
-Fastest Lap - 1 point
-
+Pole Position - 1 point \
+Fastest Lap - 1 point \
 No incidents - 1 point
 
 ### 11. Appeals and Issues
