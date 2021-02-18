@@ -140,7 +140,7 @@ Car Incident Limit: No Limit \
 Incident Warnings: No Incident Warning \
 Car Damage: On \
 Fast Repairs: 1 \
-Assists Allowed: Allow Driving Aids \
+Assists Allowed: Allow Driving Aids
 
 #### 4.5.1 Race Grid
 Gridding will start immediately after qualifying is over. You will have 2 minutes to grid. You are not required to grid if you would prefer to start from the pits.
