@@ -152,28 +152,34 @@ Please keep talk in the race room to a minimum and related to the race only so d
 #### 4.6. Equipment
 SNPM requires that you have steering wheel for each race. We don't allow any drivers using gamepads, keyboards, mouses, touchscreens, etc. to race with as they are very unpredictable and much harder to race with and race around someone using them.
 
-### 5. Green Flag Conditions
+### 5. Track Etiquette
 
-#### 5.1. Start/Restarts
---
+#### 5.1 - Rejoining the track
+If you leave the track for any reason, you must make sure you can re-enter the track safely and in enough space to not interfere with other drivers in any way. When you rejoin, stay off the racing line until you’re fully up to racing speed. Even if this means you drop to the back of the field, this rule is mandatory and always enforced. Do not rejoin straight away if this takes you into the path of other drivers. Resetting your car is strictly prohibited.
 
-#### 5.1.1. Start Etiquette
-At the start of the race, you're required to race fair and clean. 
+#### 5.2 - "Bump pass"
+If a bump pass occurs, whereby the car behind creates contact with the car in front and benefits from it, the car that was initially behind must give the place back so that they have gained no benefit from the incident. This requires them to lose places on track if necessary to rejoin behind the car they hit initially.
 
-#### 5.2.1. Exiting Pits
-When exiting the pits please be aware of other competitors - stay off the racing line until reaching racing speed.
+#### 5.3. Lagging Issues
+If your car is spotted lagging/glitching on track then you’ll be asked to leave the session, and you have option to reset your router and rejoin. If however this doesn’t solve the problem you’ll be asked to leave and unfortunately miss the event. This applies to all drivers and will be enforced strictly to ensure the integrity of all races.
 
-#### 5.3. Minimum Speed
+#### 5.4. Pit entry/exit
+The pit lane entrance and exit lines are to be respected at all times. You should use both as if you were racing these tracks in person.
+
+#### 5.5. Minimum Speed
 You must maintain a reasonable speed on the racetrack to avoid being in the way or a danger to the other competitors. If we feel you are running too slow or are in the way of the other drivers, we will ask you to pull off the track and get more damage fixed.  If you have all your damage fixed, and you are still not running at a reasonable speed, we will ask you to retire from the race.  If you refuse to pull off, you will be disqualified and could be penalized for the laps you gained while you were on the track with the damaged vehicle.
 
-#### 5.4. Substitute Drivers
+#### 5.6. Substitute Drivers
 Absolutely no substitute drivers allowed. If it is found out that you had someone else racing for you at any time during a league race, you will be suspended for one race and put on a probation period.
 
-#### 5.5. Race Manipulation/Cheating
+#### 5.7. Damage
+If you damage your vehicle and it is uncontrollable, or you deem it unsafe to attempt to return to the pits without impeding other drivers, then you must retire from the race.
+
+#### 5.8. Race Manipulation/Cheating
 Cheating will not be tolerated. Some examples of cheating include, but are not limited to, intentionally self spinning to bring out a caution, getting up to full speed (or close to full speed) on a start/restart to attempt to blow by the field, escaping (alt-f4) to avoid wrecking or bringing out a caution or second caution etc; especially if you then attempt to re-join the race. Every situation can be different and will be reviewed.
 
 ### 6. Blue Flags
-The Blue flag is an advisory flag. Drivers are not required to move over, but it is common courtesy to let them pass when it it is safe to do so, signaling your intentions. Hold a predictable line and not make sudden changes.
+The Blue flag is an advisory flag. Drivers are not required to move over, but it is common courtesy to let them pass when it it is safe to do so, signaling your intentions. Hold a predictable line and not make sudden changes. Make your move early if possible so that the faster car can clearly see how to pass you.
 
 ### 7. Black Flags
 
