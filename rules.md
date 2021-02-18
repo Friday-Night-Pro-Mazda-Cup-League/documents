@@ -167,6 +167,7 @@ All iRacing given black flags will be upheld unless a Main Staff member says oth
 
 #### 8.1. Finishing Position
 Points awarded for your finishing position in each race will follow the indy car format.
+
 1. 50
 2. 40
 3.  35
@@ -241,10 +242,12 @@ Any penalty can be appealed by contacting Admins.
 #### 11.1. Send a Message
 Any appeal to an admin decision or a league issue should be sent to an admin via message on Facebook/iRacing or email, and in turn will be forwarded to the rest of the admins for consideration.
 
-* All appeals should be submitted ASAP (within 7 days of violation/penalty/infraction/warning)​
+*All appeals should be submitted ASAP (within 3 days of violation/penalty/infraction/warning)*
 
 #### 12. Protests
-To submit a protest, question or concern regarding an SNPM race or driver, please do so here.
+To submit a protest, question or concern regarding an SNPM race or driver, please contact one of the admins. Do not contact any admins during a race.
 
 Problem drivers will be approached by admins with a warning to clean it up. If problems continue after that, suspensions may be in order.
-Respect on AND off the track. (Code of Conduct)
+Respect on AND off the track. 
+
+(Code of Conduct)
